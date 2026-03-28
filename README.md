@@ -1,6 +1,6 @@
 # Hey, I'm Artem 
 
-Postdoc @ [APC Lab](https://www.apc.univ-paris7.fr/), Paris — cracking the **Cosmic Microwave Background** wide open.
+Postdoc @ [APC Lab](https://apc.u-paris.fr/en), Paris — cracking the **Cosmic Microwave Background** wide open.
 I write code that processes echoes of the Big Bang. Pretty metal.
 
 ---
@@ -34,4 +34,4 @@ If the problem demands it, I'll learn the language.
 
 ---
 
-##  Paris, France &nbsp;|&nbsp;  CMB &nbsp;|&nbsp;  Probably drinking coffee right now
+##  Paris, France &nbsp;|&nbsp;  CMB &nbsp;|&nbsp;
